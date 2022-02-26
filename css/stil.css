@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    width: 351px;
+    height: 113px;
+    margin: auto;
+}
+
+.inline{
+    display: inline;
+}
+.conteiner{
+    background-color: #eeeeee;
+    width: 90%;
+    height: 70px;
+    margin: auto;
+    padding: auto;
+    text-align: center;  
+}
+
+.search{
+    width: 350;
+    margin: auto;
+}
+ 
+/* kutu bölümü */
+
+
+
+.kutu_sol{
+    background-color: #7EE5DA;
+    width: 364px;
+    height: 76px;
+    text-align: center;
+    margin-left: 85px;
+    margin-top: 0px;
+    padding: 10px;
+    float: left;
+   
+}
+
+ul>li{
+    list-style: none;
+    text-align: center;
+   
+}
+
+.kutu_orta{
+   background-color: #70CCC2;
+   width: 218px;
+   height: 76px;
+   text-align: center;
+   font-size: smaller;
+   margin-left: 2px;
+   margin-top: 0px;
+   float: left;
+   padding-bottom: 19px;
+}
+.kutu_sag{
+    width: 350px;
+    height: 65px;
+    background-color: #62B3AA;
+    float: left;
+    margin-left: 2px;
+    text-align: center;
+    font-size: smaller;
+    padding-bottom: 20px;
+    padding-top: 10px;
+   line-height: unset;
+   
+
+}
+
+.b1{
+    width: 28.5%;  
+}
+
+ .b2{
+     width: 30%;
+    
+ }
+ .b3{
+     width: 30%;
+ }
+
+ .footer{
+     margin-top: 120px;
+     
+    text-align: center;
+    font-size: 13px;
+ }
+
+
